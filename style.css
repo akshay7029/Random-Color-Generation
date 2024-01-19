@@ -1,0 +1,16 @@
+.box{
+    height: 45px;
+    width: 45px;
+    border: solid black 2px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 23px;
+}
+
