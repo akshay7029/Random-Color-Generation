@@ -1,2 +1,2 @@
 # Random-Color-Generation
-Here javascript (DOM) Method 
+Here javascript (DOM)- Document Object Model Method 
